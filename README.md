@@ -4,8 +4,8 @@ de texto](https://github.com/federico29/AREP-LAB01/blob/master/input.txt) y calc
 estándar. Esto se logra mediante la implementación de una lista enlazada junto todos sus componentes.
 
 ## ¿Cómo empezar?
-Las siguientes instrucciones lo guían para tener una copia de este proyecto en su máquina local y su
-correcto funcionamiento, para propósitos de desarrollo y pruebas.
+Las siguientes instrucciones le permitirán tener una copia de este proyecto en su máquina local funcionando 
+correctamente, para propósitos de desarrollo y pruebas.
 
 ### Requerimientos
 Las siguientes herramientas son necesarias para que este proyecto funcione correctamente en su máquina:
