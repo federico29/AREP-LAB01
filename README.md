@@ -14,7 +14,7 @@ Las siguientes herramientas son necesarias para que este proyecto funcione corre
 - [GIT](https://git-scm.com/downloads)
   
 ### Instalación
-Para que el proyecto esté listo para su uso, ejecute las siguientes instrucciones en el intérprete de 
+Para que el proyecto esté listo para usarse, ejecute las siguientes instrucciones en el intérprete de 
 comandos de su sistema operativo:
 
 1. Diríjase al directorio donde desea guardar el programa
