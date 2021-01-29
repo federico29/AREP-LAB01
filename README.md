@@ -17,7 +17,7 @@ Las siguientes herramientas son necesarias para que este proyecto funcione corre
 Para que el proyecto esté listo para usarse, ejecute las siguientes instrucciones en el intérprete de 
 comandos de su sistema operativo:
 
-1. Diríjase al directorio donde desea guardar el programa
+1. Ubíquese en el directorio donde desee guardar la copia de este repositorio
 2. Abra el intérprete de comandos de su sistema operativo en dicho directorio y escriba los siguientes 
    comandos:
     - Clonar este repositorio:
