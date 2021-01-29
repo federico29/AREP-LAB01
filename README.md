@@ -1,7 +1,7 @@
 # Calculadora de media y desviación estándar
-Este proyecto calcula la media y la desviación estándar de un conjunto de n números reales almacenados 
-en un archivo de texto. Esto se logra mediante la implementación de una lista enlazada y todos sus 
-componentes.
+Este proyecto es una calculadora estadística que lee y procesa un conjunto de n números reales de un [archivo 
+de texto](https://github.com/federico29/AREP-LAB01/blob/master/input.txt) y calcula la media y desviación 
+estándar. Esto se logra mediante la implementación de una lista enlazada junto todos sus componentes.
 
 ## ¿Cómo empezar?
 Las siguientes instrucciones lo guían para tener una copia de este proyecto en su máquina local y su
