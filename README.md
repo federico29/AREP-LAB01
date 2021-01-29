@@ -7,7 +7,7 @@ componentes.
 Las siguientes instrucciones lo guían para tener una copia de este proyecto en su máquina local y su
 correcto funcionamiento, para propósitos de desarrollo y pruebas.
 
-###Requerimientos
+### Requerimientos
 Las siguientes herramientas son necesarias para que este proyecto funcione correctamente en su máquina:
 - [Java 8](https://www.java.com/es/)
 - [Maven](https://maven.apache.org/download.cgi)
