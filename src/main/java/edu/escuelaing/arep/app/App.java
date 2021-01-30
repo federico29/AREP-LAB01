@@ -1,5 +1,5 @@
 package edu.escuelaing.arep.app;
-import edu.escuelaing.arep.util.MyArrayList;
+import edu.escuelaing.arep.util.MyLinkedList;
 import edu.escuelaing.arep.stat.StatCalculator;
 import java.io.File;
 import static java.lang.Math.round;
@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class App {
     public static void main( String[] args ) throws Exception {
         StatCalculator calculator = new StatCalculator();
-        MyArrayList<Double> array = new MyArrayList<Double>();
+        MyLinkedList<Double> array = new MyLinkedList<Double>();
         File input = 
                 new File("input.txt");
         Scanner sc = new Scanner(input);

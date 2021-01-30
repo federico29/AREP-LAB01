@@ -1,6 +1,6 @@
 package edu.escuelaing.arep.stat;
 
-import edu.escuelaing.arep.util.MyArrayList;
+import edu.escuelaing.arep.util.MyLinkedList;
 
 /**
  * La clase StatCalculator contiene métodos que realizan dos operaciones estadísticas
@@ -22,7 +22,7 @@ public class StatCalculator {
      * @param array El arreglo de números cuya media será calculada.
      * @return La media del arreglo de números.
      */
-    public static Double mean(MyArrayList<Double> array){
+    public static Double mean(MyLinkedList<Double> array){
         Double sum = 0.0;
         for(Double n: array){
             sum = sum + n;
@@ -35,7 +35,7 @@ public class StatCalculator {
      * @param array El arreglo de números cuya desviación estándar será calculada.
      * @return La desviación estándar del arreglo de números.
      */
-    public static Double standardDeviation(MyArrayList<Double> array){
+    public static Double standardDeviation(MyLinkedList<Double> array){
         Double mean = mean(array);
         Double sum = 0.0;
         for(Double n: array){

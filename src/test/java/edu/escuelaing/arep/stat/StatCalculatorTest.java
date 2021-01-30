@@ -5,7 +5,7 @@
  */
 package edu.escuelaing.arep.stat;
 
-import edu.escuelaing.arep.util.MyArrayList;
+import edu.escuelaing.arep.util.MyLinkedList;
 import junit.framework.TestCase;
 
 /**
@@ -13,8 +13,8 @@ import junit.framework.TestCase;
  * @author Federico Barrios Meneses
  */
 public class StatCalculatorTest extends TestCase {
-    private MyArrayList<Double> column1 = new MyArrayList<>();
-    private MyArrayList<Double> column2 = new MyArrayList<>();
+    private MyLinkedList<Double> column1 = new MyLinkedList<>();
+    private MyLinkedList<Double> column2 = new MyLinkedList<>();
     
     public StatCalculatorTest(String testName) {
         super(testName);

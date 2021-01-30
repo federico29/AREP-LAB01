@@ -15,7 +15,7 @@ public class MyIterator<E> implements Iterator<E>{
      * Constructor de un iterador.
      * @param list La lista sobre la cual se hara el iterador.
      */
-    public MyIterator(MyArrayList<E> list) { 
+    public MyIterator(MyLinkedList<E> list) { 
         this.currentNode = list.getHead();
     }
     

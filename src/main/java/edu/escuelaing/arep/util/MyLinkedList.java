@@ -11,7 +11,7 @@ import java.util.ListIterator;
  * funcionamiento.
  * @author Federico Barrios Meneses
  */
-public class MyArrayList<E> implements List<E> {
+public class MyLinkedList<E> implements List<E> {
     private Node<E> head = null;
     private Node<E> tail = null;
     private Integer size = 0;
@@ -95,7 +95,7 @@ public class MyArrayList<E> implements List<E> {
         }
         return linkedList;
     }
-      
+
     @Override
     public boolean contains(Object o) {
         return false;
