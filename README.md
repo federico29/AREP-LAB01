@@ -43,8 +43,16 @@ repositorio y escriba el siguiente comando:
 ```
 java -cp target/miprimera-app-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.App
 ```
-Puede modificar el archivo ***input.txt*** y escribir el conjunto de números del cual desea conocer la 
+Puede modificar el archivo ***input.txt*** y escribir el conjunto de números del cual desea conocer la
 media y la desviación estándar.
+
+## Generar documentación
+Una vez clonado e instalado el proyecto, para generar la documentación del proyecto abra el intérprete 
+de comandos de su sistema operativo en el directorio del repositorio y escriba el siguiente comando:
+```
+mvn javadoc:javadoc
+```
+Luego dirijase a la carpeta **\target\site\apidocs** y abra el archivo **index.html**.
 
 ## Construido con
 - Maven
